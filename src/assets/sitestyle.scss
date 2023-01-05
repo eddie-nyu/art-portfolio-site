@@ -1,0 +1,46 @@
+// 1. Import the initial variables
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../node_modules/bulma/sass/utilities/functions";
+
+// 2. Set your own initial variables
+// Update blue
+$blue: #72d0eb;
+// Add pink and its invert
+$pink: #ffb3b3;
+$pink-invert: #fff;
+$uyu-black: #090909;
+// Add a serif family
+// $family-serif: "Merriweather", "Georgia", serif;
+
+// 3. Set the derived variables
+// Use the new pink as the primary color
+// $primary: $pink;
+// $primary-invert: $pink-invert;
+// Use the existing orange as the danger color
+// $danger: $orange;
+// Use the new serif family
+// $family-primary: $family-serif;
+$text: $uyu-black;
+$link: $uyu-black;
+
+// 4. Setup your Custom Colors
+$twitter: #55acee;
+$twitter-invert: findColorInvert($twitter);
+
+// 5. Add new color variables to the color map.
+@import "../../node_modules/bulma/sass/utilities/derived-variables.sass";
+$addColors: (
+  "twitter":($twitter, $twitter-invert)
+);
+$colors: map-merge($colors, $addColors);
+
+// 6. Import the rest of Bulma
+@import "../../node_modules/bulma/bulma.sass";
+
+.navbar-item img {
+    max-height: 4rem;
+}
+
+nav.navbar {
+    margin: 2rem 3rem;
+}

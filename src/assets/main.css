@@ -1,35 +1,56 @@
-@import './base.css';
-
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-
-  font-weight: normal;
+body {
+  padding-top: 85px;
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
+section.has-text {
+  margin: 2rem 3.5rem;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+#uyu-banner {
+  background-image: url('./uyu_banner.jpg');
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+}
+
+#uyu-collage-banner {
+  background-image: url('./uyu_collage.jpg');
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+}
+
+#nl-oilking-banner {
+  background-image: url('./OilKing_NL.png');
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+}
+
+@media screen and (min-width: 769px),
+print {
+  .hero.is-larger .hero-body {
+    padding: 28rem 6rem;
   }
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
+@media screen and (max-width: 768px) {
+  .hero.is-larger .hero-body {
+    padding: 6rem 1.5rem;
   }
+}
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+@media screen and (max-width: 768px) {
+  .hero.is-large .hero-body {
+    padding: 4rem 1.5rem;
   }
 }
