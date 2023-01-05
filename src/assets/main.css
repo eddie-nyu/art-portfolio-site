@@ -54,3 +54,18 @@ print {
     padding: 4rem 1.5rem;
   }
 }
+
+.tabs.footer-tabs a {
+  border-bottom: none;
+  border-top-color: hsl(0deg, 0%, 86%);
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+
+.tabs.footer-tabs ul {
+  border-bottom: none;
+}
+
+.tabs.footer-tabs li.is-active a {
+  border-top-color: #090909;
+}

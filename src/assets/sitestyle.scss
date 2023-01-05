@@ -30,7 +30,7 @@ $twitter-invert: findColorInvert($twitter);
 // 5. Add new color variables to the color map.
 @import "../../node_modules/bulma/sass/utilities/derived-variables.sass";
 $addColors: (
-  "twitter":($twitter, $twitter-invert)
+    "twitter":($twitter, $twitter-invert)
 );
 $colors: map-merge($colors, $addColors);
 
@@ -47,4 +47,46 @@ nav.navbar {
 
 nav.navbar.is-transparent {
     background: transparent;
+}
+
+@include mobile {
+    .tabs ul {
+        flex-direction: column;
+
+        li {
+            width: 100%;
+
+            a {
+                border-radius: 4px;
+            }
+        }
+    }
+}
+
+@include mobile {
+    .tabs:not(.is-boxed) {
+        ul {
+            flex-direction: column;
+
+            li {
+                width: 100%;
+            }
+        }
+
+        &.is-toggle {
+            li {
+                &:not(:last-child) a {
+                    border-bottom-color: transparent;
+                }
+
+                &:first-child a {
+                    border-radius: 4px 4px 0 0;
+                }
+
+                &:last-child a {
+                    border-radius: 0 0 4px 4px;
+                }
+            }
+        }
+    }
 }

@@ -1,12 +1,8 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <section class="has-text">
-      <h1 class="title is-4">UYU</h1>
-    </section>
     <section>
       <figure class="image is-16x9">
         <img src="@/assets/uyu_banner.jpg">

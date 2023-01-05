@@ -43,7 +43,27 @@ const toggleMenu = () => {
         </nav>
       </div>
     </header>
+    <section v-show="$route.name !== 'about'" class="has-text">
+      <div class="tabs is-fullwidth">
+        <ul>
+          <li :class="$route.name == 'home' ? 'is-active' : ''"><RouterLink to="/"><h1 class="title is-5">UYU</h1></RouterLink></li>
+          <li :class="$route.name == 'freshcut' ? 'is-active' : ''"><RouterLink to="/freshcut"><h1 class="title is-5">Freshcut</h1></RouterLink></li>
+          <li :class="$route.name == 'metaviewxevo' ? 'is-active' : ''"><RouterLink to="/metaviewxevo"><h1 class="title is-5">Metaview x EVO</h1></RouterLink></li>
+          <li :class="$route.name == 'casa' ? 'is-active' : ''"><RouterLink to="/casa"><h1 class="title is-5">Casa</h1></RouterLink></li>
+        </ul>
+      </div>
+    </section>
     <RouterView />
+    <section v-show="$route.name !== 'about'" class="has-text">
+      <div class="tabs is-fullwidth footer-tabs">
+        <ul>
+          <li :class="$route.name == 'home' ? 'is-active' : ''"><RouterLink to="/"><h1 class="title is-5">UYU</h1></RouterLink></li>
+          <li :class="$route.name == 'freshcut' ? 'is-active' : ''"><RouterLink to="/freshcut"><h1 class="title is-5">Freshcut</h1></RouterLink></li>
+          <li :class="$route.name == 'metaviewxevo' ? 'is-active' : ''"><RouterLink to="/metaviewxevo"><h1 class="title is-5">Metaview x EVO</h1></RouterLink></li>
+          <li :class="$route.name == 'casa' ? 'is-active' : ''"><RouterLink to="/casa"><h1 class="title is-5">Casa</h1></RouterLink></li>
+        </ul>
+      </div>
+    </section>
   </div>
 
 
