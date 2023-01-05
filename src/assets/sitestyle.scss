@@ -44,3 +44,7 @@ $colors: map-merge($colors, $addColors);
 nav.navbar {
     margin: 2rem 3rem;
 }
+
+nav.navbar.is-transparent {
+    background: transparent;
+}

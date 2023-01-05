@@ -14,7 +14,7 @@ const toggleMenu = () => {
   <div>
     <header>
       <div class="wrapper">
-        <nav id="navbar" class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+        <nav id="navbar" class="navbar is-fixed-top is-transparent" role="navigation" aria-label="main navigation">
           <div class="navbar-brand">
             <a class="navbar-item">
               <RouterLink to="/">

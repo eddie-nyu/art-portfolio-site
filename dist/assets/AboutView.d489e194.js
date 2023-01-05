@@ -1,1 +1,0 @@
-import{o as n,c as r,a as e}from"./index.11c8a65a.js";const _=(t,o)=>{const s=t.__vccOpts||t;for(const[c,a]of o)s[c]=a;return s},i={},l=e("section",{class:"has-text"},[e("div",{class:"about"},[e("h1",null,"This is an about page")])],-1),u=[l];function d(t,o){return n(),r("main",null,u)}const h=_(i,[["render",d]]);export{h as default};
