@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,a as e}from"./index.5c3f6b3e.js";const o={},c=e("section",{class:"has-text"},[e("div",{class:"about"},[e("h1",null,"This is an about page")])],-1),n=[c];function _(r,i){return t(),a("main",null,n)}const u=s(o,[["render",_]]);export{u as default};
