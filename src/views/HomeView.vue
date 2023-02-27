@@ -18,21 +18,13 @@
         </picture>
       </figure>
     </section>
-    <section class="has-text">
-      <p>Founded in early 2017, UYU represents the next evolution in the esports movement.</p>
-      <br />
-      <p>With a focus on identifying and cultivating emerging talent, UYU aims to give its players and content creators
-        the tools and platform to take their game and content to the next level. With a diverse competitive global
-        roster including influencers and professional players from North and South American, Asia, Europe, and more, UYU
-        has quickly established itself as a leader in the Fighting Game Community amongst a variety of other titles.</p>
-      <br />
-      <p>Working in collaboration with some of the industries top talents and brands, UYU is continually pushing to
-        elevate the quality and originality of its team content and competitive performance, highlighting and creating
-        content around both the members of the organization as well as deserving non-sponsored players, content creators
-        and community members. This is seen through several initiatives with regional and local scenes in the FGC, as
-        well as a wider search for the next big things in content creation and streaming across multiple genres.</p>
-
+    <br />
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/UYU_divider.gif" />
+      </figure>
     </section>
+    <br />
     <section>
       <figure class="image is-16x9">
         <picture>
@@ -78,74 +70,31 @@ https://cdn.jeffordcastillo.page/uyu_collage_gflf9p_c_scale,w_1920.webp 1920w"
         </picture>
       </figure>
     </section>
-    <section class="has-text has-text-left">
-      <h1 class="title is-4">Art Direction</h1>
-      <h2 class="subtitle">Years: 2018 - 2019</h2>
-      <p>Founded in early 2017, UYU represents the next evolution in the esports movement.</p>
+    <section class="has-text">
+      <h1 class="title is-4 has-text-weight-bold">UYU - The Premiere Esports Brand</h1>
+      <h2 class="subtitle">ART DIRECTION - BRANDING - DESIGN<br />2018 - 2019</h2>
+      <p>Founded in early 2017, UYU represents the next evolution in the esports movement.
+        With a focus on identifying and cultivating emerging talent, UYU aims to give its players and content creators
+        the tools and platform to take their game and content to the next level. With a diverse competitive global
+        roster including influencers and professional players from North and South American, Asia, Europe, and more, UYU
+        has quickly established itself as a leader in the Fighting Game Community amongst a variety of other titles.</p>
       <br />
-      <p>Working in collaboration with some of the industry's top talents and brands, UYU is continually pushing to
-        elevate the quality and originality of its team content and competitive performance, highlighting and creating
-        content around both the members of the organization.</p>
+      <p>Lead in the design, graphics and production. Collaborated with gaming brands such as Astro, GFuel, and Qanba.
+        Contributed to UYU’s media presence. Growing over 20,000 followers within a short span of time.</p>
+      <br />
+      <p>For UYU I developed a new visual identity based on the Korean American origins of the team. Originally creating
+        graphics specifically for apparel, that would end up becoming synonymous with the brand.</p>
+
     </section>
-    <section class="has-text has-text-left">
-      <h1 class="title is-4">Art Direction - Branding - Design</h1>
-    </section>
+
     <section>
       <figure class="image is-16x9">
-        <picture>
-          <source srcset="https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_200.webp 200w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_429.webp 429w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_595.webp 595w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_746.webp 746w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_866.webp 866w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_973.webp 973w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1061.webp 1061w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1161.webp 1161w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1249.webp 1249w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1319.webp 1319w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1405.webp 1405w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1496.webp 1496w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1561.webp 1561w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1630.webp 1630w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1684.webp 1684w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1755.webp 1755w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1836.webp 1836w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1890.webp 1890w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1919.webp 1919w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1920.webp 1920w
-" src="https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1920.webp" type="image/webp" />
-          <img sizes="(max-width: 1920px) 100vw, 1920px" srcset="
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_200.png 200w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_429.png 429w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_595.png 595w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_746.png 746w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_866.png 866w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_973.png 973w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1061.png 1061w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1161.png 1161w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1249.png 1249w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1319.png 1319w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1405.png 1405w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1496.png 1496w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1561.png 1561w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1630.png 1630w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1684.png 1684w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1755.png 1755w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1836.png 1836w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1890.png 1890w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1919.png 1919w,
-          https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1920.png 1920w"
-            src="https://cdn.jeffordcastillo.page/OilKing_NL_xmsvwb_c_scale,w_1920.png" alt="">
-        </picture>
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/jeff_branding.png" />
       </figure>
     </section>
-    <section class="has-text has-text-left">
-      <p>Working closely with UYU’s CEO, we established a versatile design system to make it easily adapted into all
-        aspects of the company.</p>
-      <br />
-      <p>Overarching design structure, but each have their own graphic language, color palette and key graphic assets.
-      </p>
-    </section>
+
+    <br />
+
     <section>
       <figure class="image is-16x9">
         <picture>
@@ -171,9 +120,182 @@ https://cdn.jeffordcastillo.page/uyu_logo_collage_jlakzj_c_scale,w_1280.jpg 1280
         </picture>
       </figure>
     </section>
+
+    <br />
+
     <section>
-      <br />
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/UYU_divider.gif" />
+      </figure>
     </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/Logo_explanation.png" />
+      </figure>
+    </section>
+
+    <section class="has-text">
+      <h1 class="title is-4 has-text-weight-bold">The Demon</h1>
+      <p>The icon UYU Demon graphic tee was first debuted at Combo Breaker 2018 located in Chicago, IL. Home to one of
+        the best fighting game tournaments. UYU's professional player NL won his first Capcom Pro Tour event. Qualifying
+        him for Capcom Cup 2018.</p>
+      <br />
+      <p>First inspired by Dokkaebi from Korean folklore. Secondly tying in the Chicago Bulls because the tournament
+        takes place in Chicago. Creating a Dokkaebi morphing it into a familiar silhouette that locals and NBA fans can
+        recognize and enjoy. This would become a staple in the team's branding due to the high exposure as well as
+        positive fan reception. Turning into a important staple in the team's branding moving forward.</p>
+    </section>
+
+    <br />
+
+    <section>
+      <div class="columns is-mobile">
+        <div class="column is-two-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/NLLeft.jpg" />
+          </figure>
+        </div>
+        <div class="column is-three-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/NL.png" />
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <br />
+
+    <section>
+      <div class="columns is-mobile">
+        <div class="column is-three-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/demon3.jpg" />
+          </figure>
+        </div>
+        <div class="column is-two-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/demon4.jpg" />
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/UYU_divider.gif" />
+      </figure>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/Logo_explanation_2.png" />
+      </figure>
+    </section>
+
+    <section class="has-text">
+      <h1 class="title is-4 has-text-weight-bold">The Clouds</h1>
+      <p>This logo also was inspired by Korean traditional artwork. With the goal of this becoming a patch or pin. This
+        would eventually becoming a staple in the team's branding. Showing up everywhere digital and printed. The clouds
+        would also become a staple breaking out of the logo and onto other portions of UYU media. Becoming subtle
+        backgrounds to many things moving forward.</p>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/Apparel_Design.png" />
+      </figure>
+    </section>
+
+    <br />
+
+    <section>
+      <div class="columns is-mobile">
+        <div class="column is-three-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/UYU_Origami_set.png" />
+          </figure>
+        </div>
+        <div class="column is-two-fifths">
+          <figure class="image">
+            <img src="https://cdn.jeffordcastillo.page/origami_shirt.jpg" />
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="has-text">
+      <h1 class="title is-4 has-text-weight-bold">The Goal</h1>
+      <p>The CEO of UYU has many ties to fashion. We put a heavy emphasis on fashion in order to stand out from the rest of the competition. We would create with the upcoming location the tournament the players were being sent to. Picking out certain themes based on what would accurately show the inspiration and area. The next step was to also tie in the players who would be wearing them. Personalize it to the pro players who will be wearing it</p>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/uyu_photo_gallery.png" />
+      </figure>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <img sizes="(max-width: 1920px) 100vw, 1920px" src="https://cdn.jeffordcastillo.page/social_media.png" />
+      </figure>
+    </section>
+
+    <br />
+
+    <section>
+      <figure class="image is-16x9">
+        <picture>
+          <source srcset="
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_200.webp 200w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_456.webp 456w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_640.webp 640w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_818.webp 818w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_969.webp 969w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1154.webp 1154w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1311.webp 1311w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1420.webp 1420w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1546.webp 1546w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1658.webp 1658w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1778.webp 1778w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1876.webp 1876w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1918.webp 1918w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.webp 1920w"
+            src="https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.webp" type="image/webp" />
+          <img sizes="(max-width: 1920px) 100vw, 1920px" srcset="
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_200.jpg 200w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_456.jpg 456w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_640.jpg 640w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_818.jpg 818w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_969.jpg 969w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1154.jpg 1154w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1311.jpg 1311w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1420.jpg 1420w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1546.jpg 1546w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1658.jpg 1658w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1778.jpg 1778w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1876.jpg 1876w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1918.jpg 1918w,
+https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.jpg 1920w"
+            src="https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.jpg" alt="">
+        </picture>
+      </figure>
+    </section>
+
+    <br />
+
     <section style="margin: 1rem 1rem;">
       <div class="columns is-mobile">
         <div class="column">
@@ -271,50 +393,9 @@ https://cdn.jeffordcastillo.page/Wallpaper_3_ndgijq_c_scale,w_800.jpg 800w"
         </div>
       </div>
     </section>
-    <section>
-      <br />
-    </section>
-    <section>
-      <figure class="image is-16x9">
-        <picture>
-          <source srcset="
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_200.webp 200w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_456.webp 456w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_640.webp 640w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_818.webp 818w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_969.webp 969w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1154.webp 1154w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1311.webp 1311w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1420.webp 1420w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1546.webp 1546w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1658.webp 1658w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1778.webp 1778w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1876.webp 1876w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1918.webp 1918w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.webp 1920w"
-            src="https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.webp" type="image/webp" />
-          <img sizes="(max-width: 1920px) 100vw, 1920px" srcset="
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_200.jpg 200w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_456.jpg 456w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_640.jpg 640w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_818.jpg 818w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_969.jpg 969w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1154.jpg 1154w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1311.jpg 1311w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1420.jpg 1420w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1546.jpg 1546w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1658.jpg 1658w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1778.jpg 1778w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1876.jpg 1876w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1918.jpg 1918w,
-https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.jpg 1920w"
-            src="https://cdn.jeffordcastillo.page/uyu-W_u1flti_c_scale,w_1920.jpg" alt="">
-        </picture>
-      </figure>
-    </section>
-    <section>
-      <br />
-    </section>
+
+    <br />
+
     <section>
       <figure class="image is-16x9">
         <picture>
@@ -347,5 +428,6 @@ https://cdn.jeffordcastillo.page/UYU_Addidas_test_kami_zn9utk_c_scale,w_1920.jpg
         </picture>
       </figure>
     </section>
+    
   </main>
 </template>

@@ -2,10 +2,6 @@ body {
   padding-top: 85px;
 }
 
-section.has-text {
-  margin: 2rem 3.5rem;
-}
-
 #uyu-banner {
   background-image: url('./uyu_banner.jpg');
   background-position: center;
